@@ -1,0 +1,10 @@
+<!ELEMENT books (book+)>
+<!ELEMENT book (title, author, year, isbn, quantity, holds, cover)>
+<!ATTLIST book category NMTOKEN #REQUIRED>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT author (#PCDATA)>
+<!ELEMENT year (#PCDATA)>
+<!ELEMENT isbn (#PCDATA)>
+<!ELEMENT quantity (#PCDATA)>
+<!ELEMENT holds (#PCDATA)>
+<!ELEMENT cover (#PCDATA)>

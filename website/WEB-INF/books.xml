@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE books SYSTEM "books.dtd">
+<books>
+    <!-- Mystery Books (10 books) -->
+    <book category="Mystery">
+        <title>Gone Girl</title>
+        <author>Gillian Flynn</author>
+        <year>2012</year>
+        <isbn>9780307588371</isbn>
+        <quantity>5</quantity>
+        <holds>2</holds>
+        <cover>gone_girl.jpg</cover>
+    </book>
+    <book category="Mystery">
+        <title>In the Woods</title>
+        <author>Tana French</author>
+        <year>2007</year>
+        <isbn>9780670038602</isbn>
+        <quantity>4</quantity>
+        <holds>1</holds>
+        <cover>in_the_woods.jpg</cover>
+    </book>
+    <book category="Mystery">
+        <title>The Girl with the Dragon Tattoo</title>
+        <author>Stieg Larsson</author>
+        <year>2005</year>
+        <isbn>9780307454546</isbn>
+        <quantity>6</quantity>
+        <holds>3</holds>
+        <cover>dragon_tattoo.jpg</cover>
+    </book>
+    <book category="Mystery">
+        <title>Big Little Lies</title>
+        <author>Liane Moriarty</author>
+        <year>2014</year>
+        <isbn>9780393247023</isbn>
+        <quantity>7</quantity>
+        <holds>2</holds>
+        <cover>big_little_lies.jpg</cover>
+    </book>
+    <book category="Mystery">
+        <title>The Silent Patient</title>
+        <author>Alex Michaelides</author>
+        <year>2019</year>
+        <isbn>9781250301697</isbn>
+        <quantity>3</quantity>
+        <holds>0</holds>
+        <cover>silent_patient.jpg</cover>
+    </book>
+    <book category="Mystery">
+        <title>Sharp Objects</title>
+        <author>Gillian Flynn</author>
+        <year>2006</year>
+        <isbn>9780307341556</isbn>
+        <quantity>5</quantity>
+        <holds>1</holds>
+        <cover>sharp_objects.jpg</cover>
+    </book>
+    <book category="Mystery">
+        <title>The Da Vinci Code</title>
+        <author>Dan Brown</author>
+        <year>2003</year>
+        <isbn>9780307474278</isbn>
+        <quantity>8</quantity>
+        <holds>4</holds>
+        <cover>da_vinci_code.jpg</cover>
+    </book>
+    <book category="Mystery">
+        <title>The Woman in White</title>
+        <author>Wilkie Collins</author>
+        <year>1860</year>
+        <isbn>9780141442466</isbn>
+        <quantity>4</quantity>
+        <holds>0</holds>
+        <cover>woman_in_white.jpg</cover>
+    </book>
+    <book category="Mystery">
+        <title>The Maltese Falcon</title>
+        <author>Dashiell Hammett</author>
+        <year>1930</year>
+        <isbn>9780679722649</isbn>
+        <quantity>6</quantity>
+        <holds>2</holds>
+        <cover>maltese_falcon.jpg</cover>
+    </book>
+    <book category="Mystery">
+        <title>The Big Sleep</title>
+        <author>Raymond Chandler</author>
+        <year>1939</year>
+        <isbn>9780394758282</isbn>
+        <quantity>3</quantity>
+        <holds>1</holds>
+        <cover>big_sleep.jpg</cover>
+    </book>
+
+    <!-- Horror Books (10 books) -->
+    <book category="Horror">
+        <title>The Shining</title>
+        <author>Stephen King</author>
+        <year>1977</year>
+        <isbn>9780307743657</isbn>
+        <quantity>10</quantity>
+        <holds>2</holds>
+        <cover>shining.jpg</cover>
+    </book>
+    <book category="Horror">
+        <title>It</title>
+        <author>Stephen King</author>
+        <year>1986</year>
+        <isbn>9781501142970</isbn>
+        <quantity>7</quantity>
+        <holds>1</holds>
+        <cover>it.jpg</cover>
+    </book>
+    <book category="Horror">
+        <title>Bird Box</title>
+        <author>Josh Malerman</author>
+        <year>2014</year>
+        <isbn>9780062658754</isbn>
+        <quantity>5</quantity>
+        <holds>0</holds>
+        <cover>bird_box.jpg</cover>
+    </book>
+    <book category="Horror">
+        <title>Mexican Gothic</title>
+        <author>Silvia Moreno-Garcia</author>
+        <year>2020</year>
+        <isbn>9780525620781</isbn>
+        <quantity>4</quantity>
+        <holds>0</holds>
+        <cover>mexican_gothic.jpg</cover>
+    </book>
+    <book category="Horror">
+        <title>The Haunting of Hill House</title>
+        <author>Shirley Jackson</author>
+        <year>1959</year>
+        <isbn>9780143121446</isbn>
+        <quantity>8</quantity>
+        <holds>3</holds>
+        <cover>hill_house.jpg</cover>
+    </book>
+    <book category="Horror">
+        <title>Ghost Story</title>
+        <author>Peter Straub</author>
+        <year>1979</year>
+        <isbn>9780671653176</isbn>
+        <quantity>6</quantity>
+        <holds>1</holds>
+        <cover>ghost_story.jpg</cover>
+    </book>
+    <book category="Horror">
+        <title>Pet Sematary</title>
+        <author>Stephen King</author>
+        <year>1983</year>
+        <isbn>9780451163957</isbn>
+        <quantity>7</quantity>
+        <holds>2</holds>
+        <cover>pet_sematary.jpg</cover>
+    </book>
+    <book category="Horror">
+        <title>The Exorcist</title>
+        <author>William Peter Blatty</author>
+        <year>1971</year>
+        <isbn>9780671027032</isbn>
+        <quantity>5</quantity>
+        <holds>0</holds>
+        <cover>exorcist.jpg</cover>
+    </book>
+    <book category="Horror">
+        <title>Dracula</title>
+        <author>Bram Stoker</author>
+        <year>1897</year>
+        <isbn>9780486411095</isbn>
+        <quantity>8</quantity>
+        <holds>1</holds>
+        <cover>dracula.jpg</cover>
+    </book>
+    <book category="Horror">
+        <title>Frankenstein</title>
+        <author>Mary Shelley</author>
+        <year>1818</year>
+        <isbn>9780486282114</isbn>
+        <quantity>6</quantity>
+        <holds>2</holds>
+        <cover>frankenstein.jpg</cover>
+    </book>
+
+    <!-- Adventure Books (10 books) -->
+    <book category="Adventure">
+        <title>The Hobbit</title>
+        <author>J.R.R. Tolkien</author>
+        <year>1937</year>
+        <isbn>9780547928227</isbn>
+        <quantity>10</quantity>
+        <holds>3</holds>
+        <cover>the_hobbit.jpg</cover>
+    </book>
+    <book category="Adventure">
+        <title>Treasure Island</title>
+        <author>Robert Louis Stevenson</author>
+        <year>1883</year>
+        <isbn>9781508421989</isbn>
+        <quantity>7</quantity>
+        <holds>2</holds>
+        <cover>treasure_island.jpg</cover>
+    </book>
+    <book category="Adventure">
+        <title>Life of Pi</title>
+        <author>Yann Martel</author>
+        <year>2001</year>
+        <isbn>9780156027328</isbn>
+        <quantity>8</quantity>
+        <holds>4</holds>
+        <cover>life_of_pi.jpg</cover>
+    </book>
+    <book category="Adventure">
+        <title>Into the Wild</title>
+        <author>Jon Krakauer</author>
+        <year>1996</year>
+        <isbn>9780385486804</isbn>
+        <quantity>5</quantity>
+        <holds>1</holds>
+        <cover>into_the_wild.jpg</cover>
+    </book>
+    <book category="Adventure">
+        <title>The Road</title>
+        <author>Cormac McCarthy</author>
+        <year>2006</year>
+        <isbn>9780307387899</isbn>
+        <quantity>4</quantity>
+        <holds>0</holds>
+        <cover>the_road.jpg</cover>
+    </book>
+    <book category="Adventure">
+        <title>Around the World in 80 Days</title>
+        <author>Jules Verne</author>
+        <year>1873</year>
+        <isbn>9780486408232</isbn>
+        <quantity>7</quantity>
+        <holds>1</holds>
+        <cover>around_world.jpg</cover>
+    </book>
+    <book category="Adventure">
+        <title>Moby Dick</title>
+        <author>Herman Melville</author>
+        <year>1851</year>
+        <isbn>9781503280786</isbn>
+        <quantity>5</quantity>
+        <holds>2</holds>
+        <cover>moby_dick.jpg</cover>
+    </book>
+    <book category="Adventure">
+        <title>Robinson Crusoe</title>
+        <author>Daniel Defoe</author>
+        <year>1719</year>
+        <isbn>9780141441146</isbn>
+        <quantity>6</quantity>
+        <holds>3</holds>
+        <cover>robinson_crusoe.jpg</cover>
+    </book>
+    <book category="Adventure">
+        <title>Twenty Thousand Leagues Under the Seas</title>
+        <author>Jules Verne</author>
+        <year>1870</year>
+        <isbn>9780486420221</isbn>
+        <quantity>4</quantity>
+        <holds>0</holds>
+        <cover>twenty_thousand.jpg</cover>
+    </book>
+    <book category="Adventure">
+        <title>The Count of Monte Cristo</title>
+        <author>Alexandre Dumas</author>
+        <year>1844</year>
+        <isbn>9780140449266</isbn>
+        <quantity>8</quantity>
+        <holds>2</holds>
+        <cover>monte_cristo.jpg</cover>
+    </book>
+</books>

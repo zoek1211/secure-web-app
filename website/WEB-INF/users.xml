@@ -1,0 +1,28 @@
+<!DOCTYPE users SYSTEM "users.dtd">
+<users>
+    <user>
+        <userid>1</userid>
+        <name>Esha</name>
+        <password>123</password>
+    </user>
+    <user>
+        <userid>2</userid>
+        <name>Mumtaaz</name>
+        <password>123</password>
+    </user>
+    <user>
+        <userid>3</userid>
+        <name>Shivraj</name>
+        <password>123</password>
+    </user>
+    <user>
+        <userid>4</userid>
+        <name>Zoe</name>
+        <password>123</password>
+    </user>
+   <user>
+        <userid>5</userid>
+        <name>Tarun</name>
+        <password>123</password>
+    </user>
+</users>
